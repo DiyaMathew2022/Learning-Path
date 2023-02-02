@@ -1,9 +1,9 @@
 # Learning-Path
 This is a running list of things I am learning about NLP and Data Science to build strong core skills in both
 ## Core Skills<br>
-Natural Language processing (NLP)<br>
-Transformer Architecture<br>
-Pre_trained Language Models<br>
-NLP Tasks<br>
+# Natural Language processing (NLP)<br>
+# Transformer Architecture<br>
+# Pre_trained Language Models<br>
+# NLP Tasks<br>
 
 
