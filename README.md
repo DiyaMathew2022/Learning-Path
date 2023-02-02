@@ -10,11 +10,11 @@ This is a running list of things I am learning about NLP and Data Science to bui
   <li>Sentiment Analysis</li>
   <li>Translation
     <ol>
-      <li>Automatic Speech Recognition</li>
+      <li>English to French Translation</li>
       <li>Question answer Generation</li>
     </ol>
   </li>
-  <li>Fourth item</li>
+  <li>Automatic Speech Recognition</li>
 </ol>
 
 
