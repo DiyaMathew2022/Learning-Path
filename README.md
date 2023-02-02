@@ -14,6 +14,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
   <li>T5</li>
   <li>GPT</li>
 </ol><br>
+
 ### NLP Tasks<br>
 <ol>
   <li>Summarization</li>
