@@ -4,6 +4,16 @@ This is a running list of things I am learning about NLP and Data Science to bui
 ### Natural Language processing (NLP)<br>
 ### Transformer Architecture<br>
 ### Pre_trained Language Models<br>
+<ol>
+  <li>BERT</li>
+  <li>ROBERTa</li>
+  <li>BERT
+    
+  </li>
+  <li>PEGASUS</li>
+  <li>T5</li>
+  <li>GPT</li>
+</ol>
 ### NLP Tasks<br>
 <ol>
   <li>Summarization</li>
