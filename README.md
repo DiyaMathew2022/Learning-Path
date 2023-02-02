@@ -7,13 +7,13 @@ This is a running list of things I am learning about NLP and Data Science to bui
 <ol>
   <li>BERT</li>
   <li>ROBERTa</li>
-  <li>BERT
+  <li>BART
     
   </li>
   <li>PEGASUS</li>
   <li>T5</li>
   <li>GPT</li>
-</ol>
+</ol><br>
 ### NLP Tasks<br>
 <ol>
   <li>Summarization</li>
