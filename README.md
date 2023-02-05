@@ -3,10 +3,14 @@ This is a running list of things I am learning about NLP and Data Science to bui
 ## Core Skills<br>
 ### Natural Language processing (NLP)<br>
 
-<details><summary>### Transformer Architecture<br></summary>
+<details><summary> Transformer Architecture<br></summary>
 <p>
 
+#### We can hide anything, even code!
 
+```ruby
+   puts "Hello World"
+```
 
 </p>
 </details>
