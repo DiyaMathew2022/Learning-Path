@@ -2,7 +2,17 @@
 This is a running list of things I am learning about NLP and Data Science to build strong core skills in both
 ## Core Skills<br>
 ### Natural Language processing (NLP)<br>
-### Transformer Architecture<br>
+
+<details><summary>### Transformer Architecture<br></summary>
+<p>
+
+
+
+</p>
+</details>
+
+
+
 ### Pre_trained Language Models<br>
 <ol>
   <li>BERT</li>
