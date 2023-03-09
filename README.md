@@ -6,10 +6,10 @@ This is a running list of things I am learning about NLP and Data Science to bui
 <details><summary> <b> Transformer Architecture </b> <br></summary>
 <p>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Concept                                   |  Resource                                                                       | Done |
+| ------------------------------            | -------------                                                                   |      |
+| Transformer architecture                  | Content Cell                                                                    |      |
+| Content Cell                              | Content Cell                                                                    |      |
 
 </p>
 </details>
