@@ -56,8 +56,30 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| Power BI          |               |               |
-| Amazon Sagemaker  |               |               |
+| Hugging Face: Introduction to NLP        |    ✓             |   ✓              |
+| Hugging Face: USING 🤗 TRANSFORMERS |   ✓              |    ✓             |
+| Hugging Face: Transformer Models   |        ✓      |     ✓            |   
+| Hugging Face: Fine-tuning a Pre-trained Model  |    ✓          |     ✓            |
+| Hugging Face: Sharing Models and Tokenizers   |     ✓    |    ✓           |
+| Hugging Face: The Hugging Face Datasets Library  |     ✓         |      ✓         |
+| Hugging Face: The Hugging Face Tokenizers Library  |   ✓          |      ✓         |
+| Hugging Face: Main NLP Tasks|        ✓      |      ✓         |   
+| Hugging Face: Building and Sharing Demos  |    ✓          |      ✓         |
+| Youtube: Complete Road Map To Prepare NLP by Krish Naik |    ✓           |      ✓         |
+| Youtube: Natural Language Processing Tokenization by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Stemming And Lemmatization Intuition by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Stemming by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Lemmatization by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Bag Of Words Intuition by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing TF-IDF Intuition Text Preprocessing by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing TF-IDF for Machine Learning Text Preprocessing by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Implementing a Spam classifier in Python by Krish Naik|    ✓           |     ✓          |
+| Youtube: Natural Language Processing Word2Vec by Krish Naik|    ✓           |     ✓          |
+| Youtube: Why Use Recurrent Neural Network and Its Application by Krish Naik|    ✓       |     ✓      |
+| Youtube: Recurrent Neural Network Forward Propagation With Time by Krish Naik|    ✓       |     ✓      | | | 
+| Youtube: Back Propagation In Recurrent Neural Network by Krish Naik|    ✓       |     ✓      | 
+| Youtube: Problems In Simple Recurrent Neural Network by Krish Naik|    ✓       |     ✓      |
+| Youtube: LSTM Recurrent Neural Network In Depth Intuition|    ✓       |     ✓      |
 
 </p>
 </details>
