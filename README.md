@@ -5,10 +5,10 @@ This is a running list of things I am learning about NLP and Data Science to bui
 ### Power BI (BI Tool)<br>
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Resource  | Progress | Completed |
+| ------------- | ------------- | ------------- |
+| Power BI  |  |  |
+| Amazon Sagemaker  |   |   |
 
 ## Advanced Skills<br>
 
