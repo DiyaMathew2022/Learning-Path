@@ -90,11 +90,11 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| Hugging Face: Introduction to NLP        |    ✓             |   ✓              |
-| Hugging Face: USING 🤗 TRANSFORMERS |   ✓              |    ✓             |
-| Hugging Face: Transformer Models   |        ✓      |     ✓            |   
-| Hugging Face: Fine-tuning a Pre-trained Model  |    ✓          |     ✓            |
-| Hugging Face: Sharing Models and Tokenizers   |     ✓    |    ✓           |
+| Youtube: The Narrated Transformer Language Model        |    ✓             |   ✓              |
+| Blog: The Illustrated Transformer |   ✓              |    ✓             |
+| Youtube: Live -Transformers In-depth Architecture Understanding- Attention Is All You Need   |        ✓      |     ✓            |   
+| Research Paper: Attention Is All You Need  |    ✓          |     ✓            |
+| Hugging Face: Transformers   |     ✓    |    ✓           |
 
 </p>
 </details>
