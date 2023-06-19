@@ -123,7 +123,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 <details><summary> <b> NLP Tasks </b> <br></summary>
 <p>
 
-| Models          | Progress      | Done          |
+| Tasks          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Hugging Face: Summarization        |    ✓             |   ✓              |
 | Hugging Face: Sentiment Analysis |   ✓              |    ✓             |
@@ -135,17 +135,6 @@ This is a running list of things I am learning about NLP and Data Science to bui
 </p>
 </details>
 
-### NLP Tasks<br>
-<ol>
-  <li>Summarization</li>
-  <li>Sentiment Analysis</li>
-  <li>Translation
-    <ol>
-      <li>English to French Translation</li>
-      <li>Question answer Generation</li>
-    </ol>
-  </li>
-  <li>Automatic Speech Recognition</li>
-</ol>
+
 
 
