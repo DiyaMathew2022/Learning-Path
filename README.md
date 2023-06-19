@@ -1,6 +1,17 @@
 # Learning-Path
 This is a running list of things I am learning about NLP and Data Science to build strong core skills in both
 ## Core Skills<br>
+
+### Power BI (BI Tool)<br>
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+## Advanced Skills<br>
+
 ### Natural Language processing (NLP)<br>
 
 <details><summary> <b> Transformer Architecture </b> <br></summary>
