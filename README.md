@@ -120,7 +120,20 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+<details><summary> <b> NLP Tasks </b> <br></summary>
+<p>
 
+| Models          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Hugging Face: Summarization        |    ✓             |   ✓              |
+| Hugging Face: Sentiment Analysis |   ✓              |    ✓             |
+| Hugging Face: Translation  |        ✓      |     ✓            |   
+| Hugging Face: Question answer Generation  |    ✓          |     ✓            |
+| Hugging Face: Automatic Speech Recognition  |     ✓    |    ✓           |
+| Hugging Face:  |     ✓    |    ✓           |
+
+</p>
+</details>
 
 ### NLP Tasks<br>
 <ol>
