@@ -49,9 +49,9 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 ## Advanced Skills<br>
 
-### Natural Language processing (NLP)<br>
 
-<details><summary> <b> Transformer Architecture </b> <br></summary>
+
+<details><summary> <b> Natural Language Processing (NLP) </b> <br></summary>
 <p>
 
 | Resource          | Progress      | Done          |
@@ -80,6 +80,21 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Youtube: Back Propagation In Recurrent Neural Network by Krish Naik|    ✓       |     ✓      | 
 | Youtube: Problems In Simple Recurrent Neural Network by Krish Naik|    ✓       |     ✓      |
 | Youtube: LSTM Recurrent Neural Network In Depth Intuition|    ✓       |     ✓      |
+
+</p>
+</details>
+
+
+<details><summary> <b> Transformer Architecture </b> <br></summary>
+<p>
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Hugging Face: Introduction to NLP        |    ✓             |   ✓              |
+| Hugging Face: USING 🤗 TRANSFORMERS |   ✓              |    ✓             |
+| Hugging Face: Transformer Models   |        ✓      |     ✓            |   
+| Hugging Face: Fine-tuning a Pre-trained Model  |    ✓          |     ✓            |
+| Hugging Face: Sharing Models and Tokenizers   |     ✓    |    ✓           |
 
 </p>
 </details>
