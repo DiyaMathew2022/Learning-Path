@@ -4,7 +4,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 ### Power BI (BI Tool)<br>
 
-<details><summary> <b> Power BI (BI Tool) </b> <br></summary>
+<details><summary> <b> #### Power BI (BI Tool) </b> <br></summary>
 <p>
 
 | Resource          | Progress      | Completed     |
