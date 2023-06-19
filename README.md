@@ -2,18 +2,26 @@
 This is a running list of things I am learning about NLP and Data Science to build strong core skills in both
 ## Core Skills<br>
 
-### Power BI (BI Tool)<br>
 
-<details><summary> <b> #### Power BI (BI Tool) </b> <br></summary>
+<details><summary> <b> Power BI (BI Tool) </b> <br></summary>
 <p>
 
-| Resource          | Progress      | Completed     |
+
+| Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Power BI          |               |               |
 | Amazon Sagemaker  |               |               |
 
+
+
+
+
+
 </p>
 </details>
+
+
+
 
 
 ## Advanced Skills<br>
@@ -23,10 +31,10 @@ This is a running list of things I am learning about NLP and Data Science to bui
 <details><summary> <b> Transformer Architecture </b> <br></summary>
 <p>
 
-| Concept                                   |  Resource                                                                       | Done |
-| ------------------------------            | -------------                                                                   |      |
-| Transformer architecture                  | Content Cell                                                                    |      |
-| Content Cell                              | Content Cell                                                                    |      |
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Power BI          |               |               |
+| Amazon Sagemaker  |               |               |
 
 </p>
 </details>
