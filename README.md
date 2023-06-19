@@ -101,6 +101,27 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+
+
+<details><summary> <b> Pre_trained Language Models </b> <br></summary>
+<p>
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| BERT        |    ✓             |   ✓              |
+| ROBERTa |   ✓              |    ✓             |
+| BART   |        ✓      |     ✓            |   
+| PEGASUS  |    ✓          |     ✓            |
+| T5   |     ✓    |    ✓           |
+| GPT  |     ✓    |    ✓           |
+
+</p>
+</details>
+
+
+
+
+
 ### Pre_trained Language Models<br>
 <ol>
   <li>BERT</li>
