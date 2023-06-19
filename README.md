@@ -9,7 +9,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| Power BI          |               |               |
+| Youtube : How to use Microsoft Power BI - Tutorial for Beginners by Kevin Stratwert          |     ✓          |       ✓        |
 | Amazon Sagemaker  |               |               |
 
 
@@ -28,8 +28,8 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| YouTube : AWS SageMaker For ML And DL Tutorial Playlist- What Will We Learn In This Playlist?          |   ✓             |     ✓          |
-| Amazon Sagemaker  |               |               |
+| Youtube : AWS SageMaker For ML And DL Tutorial Playlist- What Will We Learn In This Playlist?          |   ✓             |     ✓          |
+| Youtube : Tutorial 2-Build,Train, Deploy Machine Learning Model In AWS SageMaker- Creating Notebook Instance  |     ✓            |    ✓             |
 
 
 
