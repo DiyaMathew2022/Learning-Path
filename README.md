@@ -3,6 +3,34 @@ This is a running list of things I am learning about NLP and Data Science to bui
 ## Core Skills<br>
 
 
+
+
+<details><summary> <b> Python </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Youtube : Tutorial: Krish Naik - Complete Python           |     ✓          |       ✓        |
+| Youtube: Programming with Mosh  |       ✓         |               |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
 <details><summary> <b> Power BI (BI Tool) </b> <br></summary>
 <p>
 
