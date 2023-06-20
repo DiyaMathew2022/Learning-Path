@@ -12,7 +12,8 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Youtube : Tutorial: Krish Naik - Complete Python           |     ✓          |       ✓        |
-| Youtube: Programming with Mosh  |       ✓         |               |
+| Youtube: Programming with Mosh  |       ✓         |     ✓           |
+| Youtube: Python Full Course |       ✓         |               |
 
 
 
