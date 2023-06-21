@@ -120,10 +120,13 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Youtube: The Narrated Transformer Language Model        |    ✓             |   ✓              |
-| Blog: The Illustrated Transformer |   ✓              |    ✓             |
+| Blog: Jay Alammar - The Illustrated Transformer |   ✓              |    ✓             |
 | Youtube: Live -Transformers In-depth Architecture Understanding- Attention Is All You Need   |        ✓      |     ✓            |   
 | Research Paper: Attention Is All You Need  |    ✓          |     ✓            |
 | Hugging Face: Transformers   |     ✓    |    ✓           |
+| Blog: Jay Alammar - A Visual Guide to Using BERT for the First Time   |     ✓    |    ✓           |
+| Blog: Fabio Chiusano - A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit   |     ✓    |    ✓           |
+| Blog: Jay Alammar - The Illustrated GPT-2 (Visualizing Transformer Language Models)   |     ✓    |    ✓           |
 
 </p>
 </details>
@@ -159,7 +162,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Hugging Face: Translation  |        ✓      |     ✓            |   
 | Hugging Face: Question answer Generation  |    ✓          |     ✓            |
 | Hugging Face: Automatic Speech Recognition  |     ✓    |    ✓           |
-| Hugging Face:  |     ✓    |    ✓           |
+| Hugging Face: Fine-tuning a masked language model  |     ✓    |    ✓           |
 
 </p>
 </details>
