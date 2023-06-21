@@ -58,7 +58,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Youtube : AWS SageMaker For ML And DL Tutorial Playlist- What Will We Learn In This Playlist?          |   ✓             |     ✓          |
-| Youtube : Tutorial 2-Build,Train, Deploy Machine Learning Model In AWS SageMaker- Creating Notebook Instance  |     ✓            |    ✓             |
+| Youtube : Tutorial -Build,Train, Deploy Machine Learning Model In AWS SageMaker- Creating Notebook Instance  |     ✓            |    ✓             |
 
 
 
