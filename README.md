@@ -32,6 +32,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Book: AI and Machine Learning For Coders: A Programmer's Guide to Artificial Intelligence           |     ✓          |       ✓        |
+| Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition by Aurélien Géron           |     ✓          |       ✓        |
 | Udemy: Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]|       ✓         |     ✓           |
 | Udemy: Data Preprocessing |       ✓         |      ✓         |
 | Udemy: Data Preprocessing in Python |       ✓         |      ✓         |
