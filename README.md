@@ -79,7 +79,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
 | Youtube : How to use Microsoft Power BI - Tutorial for Beginners by Kevin Stratwert          |     ✓          |       ✓        |
-| Amazon Sagemaker  |               |               |
+| Youtube: Power BI Project- Codebasics: Sales Insights Data Analysis Project - 1 - Problem Statement  |       ✓          |               |
 
 
 
