@@ -25,6 +25,46 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+<details><summary> <b> Machine Learning </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Book: AI and Machine Learning For Coders: A Programmer's Guide to Artificial Intelligence           |     ✓          |       ✓        |
+| Udemy: Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]|       ✓         |     ✓           |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing in Python |       ✓         |      ✓         |
+| Udemy: Data Preprocessing in R|       ✓         |      ✓         |
+| Udemy: Regression |       ✓         |      ✓         |
+| Udemy: Evaluating Regression Models Performance |       ✓         |      ✓         |
+| Udemy: Regression Model selection in Python|       ✓         |      ✓         |
+| Udemy: Classification |       ✓         |      ✓         |
+| Udemy: Evaluating Classification Models Performance |       ✓         |      ✓         |
+| Udemy: Clustering |       ✓         |      ✓         |
+| Udemy: Association Rule Learning |       ✓         |      ✓         |
+| Udemy: Reinforcement Learning |       ✓         |      ✓         |
+| Udemy: Natural Language Processing |       ✓         |      ✓         |
+| Udemy: Deep Learning |       ✓         |      ✓         |
+| Udemy: Dimensionality Reduction |       ✓         |      ✓         |
+| Udemy: Model Selection and Boosting |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+| Udemy: Data Preprocessing |       ✓         |      ✓         |
+
+
+
+
+
+
+</p>
+</details>
+
+
 
 
 
