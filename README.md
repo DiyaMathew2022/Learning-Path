@@ -70,6 +70,31 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+<details><summary> <b> Deep Learning </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Youtube: MIT Introduction to Deep Learning by Alexander Amini           |     ✓          |       ✓        |
+| Book: Deep Learning from Scratch: Building with Python from First Principles by Seth Weidman  |       ✓         |     ✓           |
+| Youtube: Deep Learning With PyTorch - Full Course by Patric Loeber |       ✓         |    ✓           |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
 
 
 
