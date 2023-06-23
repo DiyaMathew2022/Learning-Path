@@ -25,6 +25,30 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+
+
+<details><summary> <b> SQL </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Youtube : SQL Tutorial - Full Database Course for Beginners           |     ✓          |       ✓        |
+| Youtube: SQL Tutorial for Beginners 2023 | SQL Tutorial | SQL Full Course 2023 | MySQL | SQL | Simplilearn  |       ✓         |  ✓ |
+| Youtube: SQL Full Course  by Programming with Mosh|       ✓         |               |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
 <details><summary> <b> Machine Learning </b> <br></summary>
 <p>
 
