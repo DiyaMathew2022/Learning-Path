@@ -161,6 +161,31 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+<details><summary> <b> Git Hub </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Youtube: Git and GitHub for Beginners Tutorial by Kevin Stratvert          |     ✓          |       ✓        |
+| Website: Git Tutorial by BitBucket  |       ✓         |               |
+| Website: git — the simple guide |       ✓         |     ✓          |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
 
 
 
