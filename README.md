@@ -27,6 +27,29 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+<details><summary> <b> Statistics and Math for Data Science </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Statistics and probability-Khan Academy           |     ✓          |       ✓        |
+| Udemy: Statistics & Mathematics for Data Science & Data Analytics  |       ✓         |     ✓           |
+| Youtube: Mathematics and Statistics for Data Science |       ✓         |         ✓        |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
 <details><summary> <b> SQL </b> <br></summary>
 <p>
 
