@@ -308,3 +308,31 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+
+<details><summary> <b> Computer Vision </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Hugging Face: The State of Computer Vision at Hugging Face          |     ✓          |       ✓        |
+| Hugging Face: Vision Transformer (ViT)  |       ✓         |     ✓           |
+| Hugging Face: Fine-Tune ViT for Image Classification with 🤗 Transformers |       ✓         |               |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
