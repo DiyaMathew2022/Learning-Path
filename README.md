@@ -20,8 +20,42 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+
+
+
+
 </p>
 </details>
+
+
+
+<details><summary> <b> Python Projects </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Project 1 : Automation with Python           |     ✓          |               |
+| Youtube: Machine Learning with Python  |               |                |
+| Youtube: Building a website with Django |               |               |
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
 
 
 
