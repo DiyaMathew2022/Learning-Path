@@ -35,8 +35,8 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| Project 1: Automation with Python           |     ✓          |               |
-| Project 2: Machine Learning with Python  |               |                |
+| Project 1: Automation with Python           |     ✓          |       ✓          |
+| Project 2: Machine Learning with Python  |       ✓           |                |
 | Project 3: Building a website with Django |               |               |
 
 
