@@ -59,7 +59,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | -------------     | ------------- | ------------- |
 | Youtube: Programming with Mosh          |     ✓          |              |
 | Project 1:   |               |                |
-| Project 1:  |                |               |
+| Project 2:  |                |               |
 
 
 
