@@ -83,7 +83,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 | Resource          | Progress      | Done          |
 | -------------     | ------------- | ------------- |
-| Youtube : Youtube: Programming with Mosh - Django tutorial           |     ✓          |               |
+| Youtube: Programming with Mosh - Django tutorial           |     ✓          |               |
 
 
 
