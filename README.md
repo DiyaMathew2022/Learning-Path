@@ -29,6 +29,44 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
+
+
+
+<details><summary> <b> Pandas, Data Visualization (matplotlib or seaborn) </b> <br></summary>
+<p>
+
+
+| Resource          | Progress      | Done          |
+| -------------     | ------------- | ------------- |
+| Youtube : Tutorial: Python numpy tutorial playlist by codebasics        |     ✓          |              |
+| Youtube: Pandas Tutorial (Data Analysis In Python) by codebasics |       ✓         |               |
+| Youtube: Matplotlib tutorial by codebasics |       ✓         |              |
+
+
+
+
+
+
+
+
+
+
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details><summary> <b> Python Projects </b> <br></summary>
 <p>
 
