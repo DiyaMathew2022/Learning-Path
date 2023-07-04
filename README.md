@@ -32,7 +32,7 @@ This is a running list of things I am learning about NLP and Data Science to bui
 
 
 
-<details><summary> <b> Numpy, Pandas, Data Visualization (matplotlib or seaborn) </b> <br></summary>
+<details><summary> <b> Numpy, Pandas and Data Visualization (matplotlib or seaborn) </b> <br></summary>
 <p>
 
 
