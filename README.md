@@ -41,7 +41,10 @@ This is a running list of things I am learning about NLP and Data Science to bui
 | Youtube : Tutorial: Python numpy tutorial playlist by codebasics        |     ✓          |      ✓        |
 | Youtube: Pandas Tutorial (Data Analysis In Python) by codebasics |       ✓         |     ✓          |
 | Youtube: Matplotlib tutorial by codebasics |      ✓          |      ✓         |      
-| Tutorial by Krish Naik - Numpy and Inbuilt Functions Tutorial |      ✓          |              |
+| Tutorial by Krish Naik - Numpy and Inbuilt Functions Tutorial |      ✓          |     ✓         |
+| Tutorial by Krish Naik - Pandas, Data Frame and Data Series Part-1 |      ✓          |     ✓         | 
+| Tutorial by Krish Naik - Pandas, Reading CSV files With Various Parameters- Part 2 |      ✓          |     ✓         | 
+| Tutorial by Krish Naik - Pandas-Reading JSON,Reading HTML, Read PICKLE, Read EXCEL Files- Part 3 |      ✓          |             | 
 
 
 
